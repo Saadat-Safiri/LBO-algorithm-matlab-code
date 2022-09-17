@@ -9,7 +9,7 @@
 %
 %
 %   Main paper:
-%   .....
+%   "Ladybug Beetle Optimization algorithm: application for real‑world problems"
 %% ------------------------------------------------------------------------  
 
 function i=RouletteWheelSelection(P)

@@ -1,4 +1,4 @@
-Copyright (c) 2020, Saadat Safiri
+Copyright (c) 2022, Saadat Safiri
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

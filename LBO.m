@@ -9,7 +9,7 @@
 %
 %
 %   Main paper:
-%   .....
+%   "Ladybug Beetle Optimization algorithm: application for real‑world problems"
 %% ------------------------------------------------------------------------  
 
 function [Best_Solution,Best_Cost] = LBO(nPop,Max_NFE,VarMin,VarMax,nVar,fobj)

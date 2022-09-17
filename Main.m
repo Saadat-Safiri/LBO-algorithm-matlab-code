@@ -9,7 +9,7 @@
 %
 %
 %   Main paper:
-%   "..."
+%   "Ladybug Beetle Optimization algorithm: application for real‑world problems"
 %
 %   In order to use this optimization algorithm code, only change the
 %   'Cost_Function.m' code as you wish ?
